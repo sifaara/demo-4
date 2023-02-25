@@ -1,3 +1,4 @@
 # demo-4
 Quick
-https://github.com/sifaara/demo-4/edit/main/README.md
+Simple layout
+https://sifaara.github.io/demo-4/
